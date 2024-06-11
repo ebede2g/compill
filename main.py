@@ -6,7 +6,7 @@ app = Flask(__name__, template_folder='pages', static_folder='scripts')
 app.secret_key = 'magic_3'
 socketio = SocketIO(app)
 
-# s
+
 
 
 
